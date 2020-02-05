@@ -7,15 +7,13 @@ The project uses the open API described here --> https://exchangeratesapi.io/
 The project's api allows the user to query exchange rates for two currencies and a list of interesting dates and thereby get some
 statistics on when the target currency was at its lowest and maximum rates. There is also the statistics on the average.
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-See deployment for notes on how to deploy the project on a live system.
-
 Prerequisites
+
 Visual Studio 19 with .NET core 3.0 or later.
 PostMan v7.x
 
 Usage
+
 Run the project from your Visual Studio instance.
 The api will welcome you at the endpoint /api/v1/welcome. If you see the welcome message in the screen then you are good to go!.
 
