@@ -35,19 +35,24 @@ Open PostMan, create a new POST request.
         Example: 2000-01-01, 2020-02-05, 2015-03-23
         
 Example POST request:
+
 {
 "CurrencyTypes" : "SEK->NOK",
 "Dates" : "2018-01-02,2018-01-03,2018-01-05"
 }
         
 Versioning
+
 V 0.1
 
 Author
+
 Anand G
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 Acknowledgments
+
 Thanks John : https://johnthiriet.com/efficient-api-calls/
