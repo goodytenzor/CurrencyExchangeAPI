@@ -2,15 +2,17 @@
 
 Currency Exchange Statistics
 
-The project uses the open API described here --> https://exchangeratesapi.io/
+This project uses the open API described here --> https://exchangeratesapi.io/
 
-The project's api allows the user to query exchange rates for two currencies and a list of interesting dates and thereby get some
-statistics on when the target currency was at its lowest and maximum rates. There is also the statistics on the average.
+The project's API allows the user to query the exchange rates for two currencies over a list of interesting dates and thereby get some
+statistics on when the target currency was at its lowest and maximum rates and the average over these dates.
+
 
 Prerequisites
 
 Visual Studio 19 with .NET core 3.0 or later.
 PostMan v7.x
+
 
 Usage
 
@@ -19,7 +21,7 @@ The api will welcome you at the endpoint /api/v1/welcome. If you see the welcome
 
 Use PostMan to post your queries to the statistics API.
 
-Open PostMan, create a new POST request.
+Open PostMan, create a new POST request to the address : https://localhost:44336/api/v1/stats
 * Set the headers
   Content-Type : application/json
 * Set the body
@@ -40,18 +42,22 @@ Example POST request:
 "CurrencyTypes" : "SEK->NOK",
 "Dates" : "2018-01-02,2018-01-03,2018-01-05"
 }
-        
+   
+   
 Versioning
 
-V 0.1
+v1
+
 
 Author
 
 Anand G
 
+
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
 
 Acknowledgments
 
