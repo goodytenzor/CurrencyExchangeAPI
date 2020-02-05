@@ -1,4 +1,4 @@
-# CurrencyExchangeAPI
+# CurrencyExchangeStatisticsAPI
 
 Currency Exchange Statistics
 
