@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurExApi", "CurExApi\CurExApi.csproj", "{76AF13B5-193F-449B-9232-790D51F90838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrExApi.Contracts", "CurrExApi.Contracts\CurrExApi.Contracts.csproj", "{BA380522-347D-44D6-A06A-B4299DF23375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76AF13B5-193F-449B-9232-790D51F90838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AF13B5-193F-449B-9232-790D51F90838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AF13B5-193F-449B-9232-790D51F90838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AF13B5-193F-449B-9232-790D51F90838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA380522-347D-44D6-A06A-B4299DF23375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA380522-347D-44D6-A06A-B4299DF23375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA380522-347D-44D6-A06A-B4299DF23375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA380522-347D-44D6-A06A-B4299DF23375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {534D1C31-E066-4DD2-90B4-0E8154A0BA0B}
+	EndGlobalSection
+EndGlobal

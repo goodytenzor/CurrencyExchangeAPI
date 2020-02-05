@@ -1,0 +1,8 @@
+C:\Users\maxxi\source\repos\CurExApi\CurrExApi.Contracts\bin\Release\netstandard2.0\CurrExApi.Contracts.deps.json
+C:\Users\maxxi\source\repos\CurExApi\CurrExApi.Contracts\bin\Release\netstandard2.0\CurrExApi.Contracts.dll
+C:\Users\maxxi\source\repos\CurExApi\CurrExApi.Contracts\bin\Release\netstandard2.0\CurrExApi.Contracts.pdb
+C:\Users\maxxi\source\repos\CurExApi\CurrExApi.Contracts\obj\Release\netstandard2.0\CurrExApi.Contracts.csprojAssemblyReference.cache
+C:\Users\maxxi\source\repos\CurExApi\CurrExApi.Contracts\obj\Release\netstandard2.0\CurrExApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\maxxi\source\repos\CurExApi\CurrExApi.Contracts\obj\Release\netstandard2.0\CurrExApi.Contracts.AssemblyInfo.cs
+C:\Users\maxxi\source\repos\CurExApi\CurrExApi.Contracts\obj\Release\netstandard2.0\CurrExApi.Contracts.dll
+C:\Users\maxxi\source\repos\CurExApi\CurrExApi.Contracts\obj\Release\netstandard2.0\CurrExApi.Contracts.pdb
